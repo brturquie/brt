@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{7A808FAC-05E6-4706-B6DA-FBBDE534BBB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BRT/Startup.cs">
+    <Files>
+      <File FileName="BRT/Views/Home/Index.cshtml" Line="103" Column="45" />
+      <File FileName="BRT/wwwroot/css/site.css" Line="28" Column="18" />
+      <File FileName="BRT/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" />
+      <File FileName="BRT/Program.cs" Line="14" Column="6" />
+      <File FileName="BRT/Helpers/GlobalHelpers.cs" Line="1" Column="1" />
+      <File FileName="BRT/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="BRT/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="BRT/appsettings.json" Line="9" Column="1" />
+      <File FileName="BRT/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="BRT/Startup.cs" Line="56" Column="72" />
+      <File FileName="BRT/Controllers/HomeController.cs" Line="36" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BRT PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

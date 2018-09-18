@@ -1,0 +1,5 @@
+/Users/allora/Documents/Personal/BRT/BRT/obj/Debug/netcoreapp2.1/BRT.csproj.CoreCompileInputs.cache
+/Users/allora/Documents/Personal/BRT/BRT/obj/Debug/netcoreapp2.1/BRT.RazorAssemblyInfo.cache
+/Users/allora/Documents/Personal/BRT/BRT/obj/Debug/netcoreapp2.1/BRT.RazorAssemblyInfo.cs
+/Users/allora/Documents/Personal/BRT/BRT/obj/Debug/netcoreapp2.1/BRT.AssemblyInfoInputs.cache
+/Users/allora/Documents/Personal/BRT/BRT/obj/Debug/netcoreapp2.1/BRT.AssemblyInfo.cs
